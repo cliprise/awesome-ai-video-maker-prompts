@@ -196,6 +196,7 @@ Create a 7-second vertical video of a handmade ceramic coffee mug on a wooden ta
 - you want controlled motion
 - you want ad variations from one product shot
 - you want to animate AI art or a thumbnail
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 
 Useful Cliprise resources:
 
